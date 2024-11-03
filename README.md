@@ -30,7 +30,7 @@ c) Which states' growth rates suggest a **thriving economy**, and which states a
 
 **Source**:
 
-The dataset was scraped from Wikipedia: [Link to dataset](https://en.wikipedia.org/wiki/list_of_U.S._states_and_territories_by_income)."
+The dataset was scraped from Wikipedia: [Link to dataset](https://en.wikipedia.org/wiki/list_of_U.S._states_and_territories_by_income).
 
 **Description**:
 
@@ -41,8 +41,6 @@ The dataset was scraped from Wikipedia: [Link to dataset](https://en.wikipedia.o
 ---
 
 ## Methodology
-
-Outline the steps taken in the analysis. This could include:
 
 1. **Data Collection**: The data was collected by web scraping via Power BI 
 2. **Tools & Libraries**: Power Bi

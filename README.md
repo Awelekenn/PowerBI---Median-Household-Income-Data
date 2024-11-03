@@ -1,6 +1,6 @@
 **Description**:
 
-Data analysis of the Median Household income . Done by Awele Nwabuoku.. **The goal of this project is to study and analyse the median income household of U.S. states and territories over the years 2010–2021, analysing the income values for each year, as well as the average annual growth rate for each state and Washington, D.C**. To do so, Power Bi will be employed as data manipulation and management tools.
+Data analysis of the Median Household income .  **The goal of this project is to study and analyse the median income household of U.S. states and territories over the years 2010–2021, analysing the income values for each year, as well as the average annual growth rate for each state and Washington, D.C**. To do so, Power Bi will be employed as data manipulation and management tools.
 
 
 ---

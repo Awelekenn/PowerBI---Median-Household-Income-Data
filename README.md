@@ -7,8 +7,6 @@ Data analysis of the Median Household income . Done by Awele Nwabuoku.. **The 
 
 ## Introduction
 
-**Problem Statement**:
-
 This analysis focuses on understanding the income growth trends across U.S. states from 2010 to 2021, with the goal of identifying states with the highest economic growth between these years. This analysis could be used by companies looking to expand, in order to identify states with rapidly increasing income levels, which might indicate a growing consumer base with more disposable income. 
 
 In order to carry out the proposed analysis, **the following questions are defined** to be resolved throughout the analysis:
@@ -219,9 +217,6 @@ For example:
 
 ## Conclusions & Recommendations
 
-Summarise your conclusions based on the analysis.
-
-For example:
 
 - States in the West have shown the highest growth rates, which would suggest that a strong economic boost
 - Focus economic support and development initiatives in lagging states like **Louisiana, Mississippi, and West Virginia**, which have shown slower growth and lower median incomes.
